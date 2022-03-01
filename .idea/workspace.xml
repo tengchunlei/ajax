@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76ab574d-5d88-42af-8585-98abf80d65aa" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ajax.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/page1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/page2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/database/page3.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/load.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/load.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/load.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/load.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +58,7 @@
       <workItem from="1646008783199" duration="11245000" />
       <workItem from="1646030405916" duration="1821000" />
       <workItem from="1646035414197" duration="5564000" />
-      <workItem from="1646104719686" duration="18091000" />
+      <workItem from="1646104719686" duration="20225000" />
     </task>
     <servers />
   </component>
